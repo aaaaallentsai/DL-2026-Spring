@@ -1,0 +1,13 @@
+# ignore dataset folder
+tree-or-not/
+
+# ignore zip dataset
+tree-or-not.zip
+
+*.tar.gz
+
+# ignore pytorch checkpoints (optional)
+*.pt
+
+# ignore jupyter checkpoints
+.ipynb_checkpoints/
