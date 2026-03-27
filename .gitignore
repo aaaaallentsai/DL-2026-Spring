@@ -1,5 +1,6 @@
 # ignore dataset folder
 tree-or-not/
+butterflies/
 
 # ignore zip dataset
 tree-or-not.zip
