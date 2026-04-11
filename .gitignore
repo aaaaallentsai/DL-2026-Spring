@@ -12,3 +12,7 @@ tree-or-not.zip
 
 # ignore jupyter checkpoints
 .ipynb_checkpoints/
+
+sp2026_discussions/data
+
+sp2026_discussions/mnist
